@@ -7,11 +7,11 @@ body{
     height: 400px;
     position: relative;
     margin: 0;
-    margin-bottom: 400px;
+    margin-bottom: 600px;
 }
 img{
-    max-width: 400px;
-    max-height: 600px;
+    max-width: 500px;
+    max-height: 700px;
     width: 100%;             
     height: auto;            
     position: absolute;     
@@ -35,6 +35,7 @@ img{
     border: none;
 }
 h1{
+    font-size: 3rem;
     color: brown;
     font-family: "Kaushan Script", sans-serif;
     margin-top: 40px;
