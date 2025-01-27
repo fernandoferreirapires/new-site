@@ -7,7 +7,7 @@ body{
     height: 400px;
     position: relative;
     margin: 0;
-    margin-bottom: 600px;
+    margin-bottom: 350px;
 }
 img{
     max-width: 400px;
@@ -27,7 +27,7 @@ img{
 #botoes{
     display: flex;
     margin: auto;
-    margin-top: 30px;
+    margin-top: 10px;
     max-width: 200px;
     justify-content: space-around;
 }
