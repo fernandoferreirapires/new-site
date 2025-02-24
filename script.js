@@ -19,7 +19,7 @@ document.getElementById('next').addEventListener('click', () => {
     showSlide(currentSlide + 1); // Vai para a próxima imagem
 });
 
-const dataInicio = new Date("2024-08-28T00:00:00");
+const dataInicio = new Date("2024-08-27T00:00:00");
 
 function atualizarContadores(){
     const agora = new Date();
